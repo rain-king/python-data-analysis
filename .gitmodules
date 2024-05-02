@@ -1,0 +1,15 @@
+[submodule "mean-variance-standard-deviation-calculator"]
+	path = mean-variance-standard-deviation-calculator
+	url = git@github.com:rain-king/mean-variance-standard-deviation-calculator.git
+[submodule "demographic-data-analyzer"]
+	path = demographic-data-analyzer
+	url = git@github.com:rain-king/demographic-data-analyzer.git
+[submodule "medical-data-visualizer"]
+	path = medical-data-visualizer
+	url = git@github.com:rain-king/medical-data-visualizer.git
+[submodule "page-view-time-series-visualizer"]
+	path = page-view-time-series-visualizer
+	url = git@github.com:rain-king/page-view-time-series-visualizer.git
+[submodule "sea-level-predictor"]
+	path = sea-level-predictor
+	url = git@github.com:rain-king/sea-level-predictor.git
